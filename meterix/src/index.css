@@ -4,6 +4,8 @@
   line-height: 24px;
   font-weight: 400;
   background-image: linear-gradient(to bottom right, rgb(215, 174, 174), rgb(27, 27, 26));
+  background-repeat: no-repeat;
+  background-size: cover;
   
 
   font-synthesis: none;
