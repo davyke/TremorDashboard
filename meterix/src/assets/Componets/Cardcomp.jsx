@@ -26,14 +26,14 @@ import {
       delta: "23.9%",
       deltaType: "increase",
     },
-    {
-      title: "Customers",
-      metric: "1,072",
-      progress: 53.6,
-      target: "2,000",
-      delta: "10.1%",
-      deltaType: "moderateDecrease",
-    }
+    // {
+    //   title: "Customers",
+    //   metric: "1,072",
+    //   progress: 53.6,
+    //   target: "2,000",
+    //   delta: "10.1%",
+    //   deltaType: "moderateDecrease",
+    // }
   ];
 
 function Cardcomp() {
